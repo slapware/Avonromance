@@ -1,0 +1,1 @@
+%%%genre%%%: %%%man_title%%% by %%%name%%% - A new manuscript has been submitted

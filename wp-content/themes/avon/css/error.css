@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "MuseoSans500";
+	font-size:26px;
+	line-height:30px;
+}
+
+p {
+	font-family:"MuseoSans100";
+	font-size:26px;
+	line-height:30px;
+	-webkit-font-smoothing:antialiased;
+}
+p .btn {
+	-webkit-font-smoothing:initial;
+}
+
+.container .row {
+	margin-top:-90px;
+	padding:0;
+	position: absolute;
+	top:35%;
+}
+

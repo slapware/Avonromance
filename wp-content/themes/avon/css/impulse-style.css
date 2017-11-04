@@ -1,0 +1,80 @@
+body {width:800;}
+
+img{border:0;}
+a{color:#ff286f; text-decoration: none;}
+.avon-rom{width: 900px; margin:0 auto;}
+.navcolumn{float:left; padding-right:14px; width:156px; margin-top: 30px}
+.navcolumn a, .navcolumn a:active, .navcolumn a:visited{font-family: Arial, Helvetica, san-serif; font-size: 12px; font-weight: bold; text-transform: uppercase; color:#ff286f; margin-bottom: 25px; display: block;}
+.navcolumn a.cur{color: #000; cursor: default;}
+
+.arcontent{width:695px; float:left; border-left: 1px #ccc solid; padding-left: 20px; font-family: Gerogia, Times New Roman, serif; }
+.arcontent h2{font-size: 30px; font-weight:normal; color: #7d7d7d; width:450px; float: left;}
+.arcontent h3{font-size: 24px; font-weight:normal; color: #7d7d7d}
+.arcontent h4{font-size: 17px; font-weight:normal}
+.soci{width:230px; float: right; margin-top: 30px}
+.contentxt{font-size: 14px; line-height:18px; clear: both;}
+.highlighted{font-size: 17px; line-height: 24px}
+#impulse_form_id label{font-family: Arial, Helvetica, san-serif; font-size: 12px; font-weight: bold; text-transform: uppercase; color:#000; display: block; margin-bottom: 10px}
+#impulse_form_id input[type="text"]{height:35px; width:460px; padding-left: 10px}
+#impulse_form_id textarea{height:80px; min-height:80px; max-height: 200px; width:680px; min-width: 680px; max-width: 680px; padding: 5px; margin-bottom: 20px;}
+#impulse_form_id input[type="text"], #impulse_form_id textarea{border: 1px #ccc solid; background-color: #fff; margin-bottom: 20px; font-size: 13px}
+.impulse_form_div{clear: both;}
+
+/* below are from layout css*/
+.impulse_form_div ul{list-style: none; color: #000; padding: 0}
+.impulse_form_div .error{display: none; color: red; background: url('http://impulse.avonromance.com/wp-content/themes/avonromance/common/images/error.png') no-repeat 0 2px; padding-left: 15px;}
+.impulse_form_div li{clear: left;}
+.text_with_checkboxes{float: left; width:458px; margin-right:25px; clear: left;}
+.impulse_form_div .three_selects{float: left; width: 220px; margin: 0 10px 20px 0;}
+
+.impulse_form_div .submit{height: 29px; width:246px; cursor: pointer;
+background: url('submit_btn.jpg'); border: none; margin-top: 17px;}
+.impulse_form_div .submit:hover {
+    background: url('submit_btn.jpg');
+}
+
+.impulse_faq_div ul{list-style: none;}
+.impulse_faq_div .faq_question{color: #FF2970; padding-left: 14px;background: url('http://impulse.avonromance.com/wp-content/themes/avonromance/common/images/search-right.png') no-repeat 0 3px;  margin-bottom: 10px}
+.impulse_faq_div .faq_question.active{background: url('http://impulse.avonromance.com/wp-content/themes/avonromance/common/images/search-down.png') no-repeat 0 4px;}
+.impulse_faq_div .faq_answer{display: none; padding: 0 0 10px 14px}
+.impulse_faq_div li.faq_question:hover{cursor: pointer;}
+
+.editorow{ clear: both; margin-bottom: 60px}
+.editorphoto{float: left; width: 200px; margin-right: 20px; margin-bottom:76px;}
+.editorbio{font-size: 16px; line-height: 18px}
+.footnote{font-size: 11px; font-style: italic;}
+.editorow .footnote{font-size: 15px}
+
+.contentxt ul {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+.contentxt form ul {
+    margin: 0;
+    padding: 0;
+}
+
+.contentxt h3 {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.contentxt p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.contentxt p b {
+    font-family: Gerogia, Times New Roman, serif;
+}

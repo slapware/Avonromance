@@ -1,0 +1,126 @@
+/* Start- Wordpress Custom*/
+#searchform label{display:none;}
+
+.frm_forms .frm_submit input{
+	background: none repeat scroll 0 0 #f67fa7;
+    border-radius: 15px;
+    color: white;
+    font-family: helvetica;
+    position: relative;
+    text-transform: uppercase;
+    vertical-align: top;
+	border:none;
+	height:30px;
+	width:126px;
+	margin-top:26px;
+	
+}
+
+.frm_forms label {
+    display: block;
+    margin-top: 10px;
+}
+
+fieldset {
+    border: medium none;
+}
+
+#frm_field_15_container {visibility:hidden;}
+
+#frm_field_16_container {
+    margin-top: -40px;
+}
+
+.sweepstakes ol {
+margin: 8px 0;
+}
+
+.sweepstakes li {
+    font-size: 13px;
+    line-height: 16px;
+    list-style-type: disc;
+    margin-bottom: 5px;
+    margin-left: 50px;
+}
+
+
+/* End- Wordpress Custom*/
+
+
+.featured-content {
+margin-top: 160px;
+clear:both;
+position: relative;
+}
+.header {
+position: relative;
+z-index: 33333;
+overflow: visible;
+}
+.nav-fixxer {
+content: "";
+clear: both;
+margin-bottom: 50px !important;
+}
+.navbar, .navbar ul {
+width: 100%;
+margin-top: 0;
+}
+.navbar ul li > ul {
+width: 95%;
+top: 125px;
+left: 10px;
+background: rgba(255,255,255,0.0);
+color: #fff;
+margin: 0;
+padding: 10px 0;
+}
+.navbar .cart-nav {
+font-style: italic;
+font-size: 14px;
+font-weight: normal;
+text-align: center;
+width: 300px;
+margin-top: 10px;
+top: 0;
+right: 0;
+float: right;
+position: relative;
+/*margin-right: -50px;*/
+}
+.header ul li {
+display: inline-block !important;
+}
+.navbar span.fa {
+position: relative;
+float: right;
+margin-top: -4px;
+margin-left: 3px;
+}
+
+/** DROPDOWN **/
+.navbar ul.ul-dropdown {
+}
+.navbar ul.ul-dropdown li a {
+font-weight: normal;
+font-family: Helvetica;
+}
+.navbar li.nav-dropdown:hover > ul.ul-dropdown, .navbar ul.ul-dropdown li {
+display: inline-block;
+}
+.navbar ul.ul-dropdown li {
+float: none;
+display: inline-block;
+}
+.navbar ul.ul-dropdown {
+-webkit-box-shadow: 0px 3px 5px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 3px 5px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 3px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+hr{display:none;}
+
+.frm_error {
+    color: red;
+    font-size: 12px;
+}

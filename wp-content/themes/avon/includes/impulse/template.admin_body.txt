@@ -1,0 +1,31 @@
+A new manuscript has been submitted.
+
+Date: %%%date%%%
+Username:  %%%username%%%
+Email: %%%email%%%
+Name: %%%name%%%
+
+Manuscript title: %%%man_title%%%
+Manuscript link: %%%manuscript_link%%%
+
+--- Manuscript Details ---
+
+Finished: %%%finished%%%
+Published before: %%%published%%%
+Preferred Author Name: %%%preferred_author_name%%%
+Manuscript length: %%%length%%%
+Genre: %%%genre%%%
+Sub-category: %%%subcategory%%%
+Time-period: %%%period%%%
+
+In Reference To Submission Request:
+%%%submission_request%%%
+
+Synopsis:
+%%%synopsis%%%
+
+Best Scene:
+%%%scene%%%
+
+Query Letter:
+%%%query_letter%%%
